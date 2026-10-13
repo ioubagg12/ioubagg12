@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Gabriel Creanga! 👋
+# Hi there, I'm Gabriel Creanga! 👋
 
 <p align="center">
   <b>Software Engineering Student @ University of Southern Denmark (SDU) 🇩🇰</b><br>
@@ -13,11 +13,24 @@
 
 ---
 
-### 🏆 Hackathon Achievement
+### 🏆 Hackathons
 
-> **🥇 Track Winner — Hate Speech Detection (PrivHSD Challenge)**  
-> **Council of Europe "Hack the Hate, Renew Democracy" Democracy Hackathon (Strasbourg, 2026)**  
-> Co-developed [**AgnoSpeech**](https://github.com/AllForOne-md/AgnoSpeech) — an on-device, privacy-preserving text privatization and hate speech detection workbench where sensitive raw text never leaves the user's machine.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/agnospeech.jpg" alt="AgnoSpeech" width="100%" /><br/>
+      <b>🥇 Track Winner: Hate Speech Detection (PrivHSD Challenge)</b><br/>
+      <sub>Council of Europe <i>"Hack the Hate, Renew Democracy"</i> Democracy Hackathon · Strasbourg, 2026</sub><br/><br/>
+      Co-developed <a href="https://github.com/AllForOne-md/AgnoSpeech"><b>AgnoSpeech</b></a>, an on-device, privacy-preserving text privatization and hate speech detection workbench where sensitive raw text never leaves the user's machine.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/gigahack-2026.jpg" alt="GigaHack 2026" width="100%" /><br/>
+      <b>🚀 Participant: GigaHack 2026 Edition</b><br/>
+      <sub>Hackathon · 2026</sub><br/><br/>
+      Took part in the 2026 edition of GigaHack: building and pitching a working prototype under hackathon time pressure as part of a team.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,6 +59,9 @@
 <p align="left">
   <b>Frameworks & AI/Audio:</b><br>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white" />
   <img src="https://img.shields.io/badge/Vosk_STT-FF6F00?style=for-the-badge&logo=soundcharts&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP_%26_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -63,12 +79,56 @@
 
 ### ⭐ Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🏆 **[AgnoSpeech](https://github.com/AllForOne-md/AgnoSpeech)** | **PrivHSD Hackathon Winner**: Privacy-preserving hate speech detection & local text privatization workbench (desktop + web). | Python NLP Privacy-AI |
-| 🎙️ **[ProjectFactCheck](https://github.com/ioubagg12/ProjectFactCheck)** | Real-time microphone listener and audio ring buffer with offline STT and instant Google Fact Check verification. | Python Flask Vosk Groq |
-| ⚔️ **[clash-info-bot](https://github.com/ioubagg12/clash-info-bot)** | Telegram bot (@The_coc_caller_bot) and companion web API for Clash of Clans war calling and clan management. | Python Telegram API REST |
-| ⚡ **[HPO](https://github.com/MaxDnes/HPO)** | Heat Production Optimizer: SDU semester project desktop app for heating grid and production unit optimization. | C# .NET Avalonia UI |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ioubagg12/medical-cabinet"><img src="assets/medical-cabinet.jpg" alt="Medical Cabinet" width="100%" /></a><br/>
+      <h4>🩺 <a href="https://github.com/ioubagg12/medical-cabinet">Medical Cabinet</a> <sup>NEW</sup></h4>
+      Mobile health-record PWA: body-map check-up tracker, clinic messages, health journal timeline and plain-language blood-test advice from uploaded lab reports.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AllForOne-md/AgnoSpeech"><img src="assets/agnospeech.jpg" alt="AgnoSpeech" width="100%" /></a><br/>
+      <h4>🏆 <a href="https://github.com/AllForOne-md/AgnoSpeech">AgnoSpeech</a></h4>
+      <b>PrivHSD Hackathon Winner</b>: privacy-preserving hate speech detection and local text privatization workbench (desktop + web).<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP-412991?style=flat-square" />
+      <img src="https://img.shields.io/badge/Privacy_AI-8A2BE2?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ioubagg12/ProjectFactCheck"><img src="assets/projectfactcheck.jpg" alt="ProjectFactCheck" width="100%" /></a><br/>
+      <h4>🎙️ <a href="https://github.com/ioubagg12/ProjectFactCheck">ProjectFactCheck</a></h4>
+      Real-time microphone listener and audio ring buffer with offline STT and instant Google Fact Check verification.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vosk-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ioubagg12/clash-info-bot"><img src="assets/clash-info-bot.jpg" alt="clash-info-bot" width="100%" /></a><br/>
+      <h4>⚔️ <a href="https://github.com/ioubagg12/clash-info-bot">clash-info-bot</a></h4>
+      Telegram bot (@The_coc_caller_bot) and companion web API for Clash of Clans war calling and clan management.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST-009688?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MaxDnes/HPO"><img src="assets/hpo.jpg" alt="HPO" width="100%" /></a><br/>
+      <h4>⚡ <a href="https://github.com/MaxDnes/HPO">HPO: Heat Production Optimizer</a></h4>
+      SDU semester project: desktop app for heating grid and production unit optimization.<br/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=flat-square" />
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
