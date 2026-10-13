@@ -37,9 +37,10 @@
 ### 💫 About Me
 
 - 🎓 **Education**: Studying Software Engineering at the **University of Southern Denmark (SDU)**.
+- 🩺 **Digital Health & Patient UX**: Exploring modern, user-friendly health tech—built [**Medical Cabinet**](https://github.com/ioubagg12/medical-cabinet), a mobile health-record PWA combining interactive body-map check-up tracking with lab report blood-test analysis.
 - 🔒 **Privacy-First AI**: Enthusiastic about designing systems that protect user privacy without sacrificing capability (e.g., local STT, on-device text anonymization).
 - 🎙️ **Speech & Real-Time Tools**: Built applications using offline speech recognition ([Vosk](https://alphacephei.com/vosk/)), live audio ring buffers, and fast fact-checking pipelines.
-- 💻 **Cross-Platform Development**: Experienced with Python backend services, C#/.NET desktop UI applications (Avalonia), and web APIs.
+- 💻 **Cross-Platform Development**: Experienced with Python backend services, C#/.NET desktop UI applications (Avalonia), and modern web stacks (React, Vite, Supabase).
 - 🚀 **Always Building**: Constantly experimenting with new ideas, developer tools, and intelligent automation.
 
 ---
